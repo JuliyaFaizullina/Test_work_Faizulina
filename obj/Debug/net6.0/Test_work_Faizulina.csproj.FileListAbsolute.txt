@@ -1,0 +1,15 @@
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\bin\Debug\net6.0\Test_work_Faizulina.exe
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\bin\Debug\net6.0\Test_work_Faizulina.deps.json
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\bin\Debug\net6.0\Test_work_Faizulina.runtimeconfig.json
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\bin\Debug\net6.0\Test_work_Faizulina.dll
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\bin\Debug\net6.0\Test_work_Faizulina.pdb
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\obj\Debug\net6.0\Test_work_Faizulina.csproj.AssemblyReference.cache
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\obj\Debug\net6.0\Test_work_Faizulina.GeneratedMSBuildEditorConfig.editorconfig
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\obj\Debug\net6.0\Test_work_Faizulina.AssemblyInfoInputs.cache
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\obj\Debug\net6.0\Test_work_Faizulina.AssemblyInfo.cs
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\obj\Debug\net6.0\Test_work_Faizulina.csproj.CoreCompileInputs.cache
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\obj\Debug\net6.0\Test_work_Faizulina.dll
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\obj\Debug\net6.0\refint\Test_work_Faizulina.dll
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\obj\Debug\net6.0\Test_work_Faizulina.pdb
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\obj\Debug\net6.0\Test_work_Faizulina.genruntimeconfig.cache
+E:\Разработчик\Кр Файзуллина\Test_work_Faizulina\obj\Debug\net6.0\ref\Test_work_Faizulina.dll
